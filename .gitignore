@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# Patient data and generated outputs - never commit
+*.dcm
+*.DCM
+*.ima
+*.IMA
+DICOM/
+dicom/
+ROI_summary_figure*.png
+ROI_summary_figure*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
