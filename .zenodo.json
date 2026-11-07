@@ -1,0 +1,16 @@
+{
+  "title": "Akdeniz Tool for HU Calculation",
+  "upload_type": "software",
+  "description": "Desktop tool for measuring Hounsfield units (HU) in a three-dimensional region of interest placed on a spinal CT series. Reports mean HU, median HU, a Gaussian-based FWHM interval and FWHM mean HU, and exports a publication figure. Research tool; not validated for clinical decision-making.",
+  "creators": [
+    {
+      "name": "Ateya, Muhammad",
+      "affiliation": "Department of Neurosurgery, Akdeniz University",
+      "orcid": "0000-0002-5451-300X"
+    }
+  ],
+  "license": "apache-2.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": ["Hounsfield units", "bone mineral density", "opportunistic CT", "DICOM", "spine", "neurosurgery"]
+}
