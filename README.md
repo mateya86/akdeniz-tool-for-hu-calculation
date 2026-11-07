@@ -100,9 +100,11 @@ identifier appears in the figure.
 
 ## Citation
 
-Please cite this software using the Zenodo record for the release you used (DOI to be added on publication; see also `CITATION.cff`).
+Please cite this software using the DOI below (see also `CITATION.cff`).
 
-&#x20;   Ateya M. Akdeniz Tool for HU Calculation, version 1.0.0. Department of Neurosurgery, Akdeniz University.
+```
+Ateya M. Akdeniz Tool for HU Calculation, version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.24043853
+```
 
 
 ## License
