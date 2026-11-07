@@ -1,0 +1,9 @@
+# Akdeniz Tool for HU Calculation - Python dependencies (version 1.0.0)
+# Lower bounds are conservative minimums; they have not been exhaustively tested.
+# Tkinter ships with the standard Python installer on Windows and macOS. On
+# Debian/Ubuntu install it separately:  sudo apt install python3-tk
+numpy>=1.20
+pydicom>=2.0
+Pillow>=8.0
+matplotlib>=3.3
+scipy>=1.5
